@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\XOTTAbl4\Desktop\Source\Source\Main.cpp(94,23): warning C4244: инициализация: преобразование "_Rep" в "unsigned int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+  Source.vcxproj -> C:\Users\XOTTAbl4\Desktop\Source\x64\Debug\Source.exe
